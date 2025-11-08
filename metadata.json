@@ -1,0 +1,5 @@
+{
+  "name": "Garden Guardian AI",
+  "description": "An enhanced version of the Garden Guardian game, rebuilt with React and TypeScript, featuring dynamic AI-powered strategy coaching from Gemini. Protect your farm from waves of pests, buy powerful tools and upgrades, and get real-time advice to achieve the highest score.",
+  "requestFramePermissions": []
+}
